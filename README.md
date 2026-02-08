@@ -16,11 +16,11 @@ A simple responsive card layout built using HTML and CSS.
 
 ## Live Demo
 
-(Add your Netlify link here)
+https://cerulean-longma-ad6c86.netlify.app/
 
 ## Repository
 
-(Add your GitHub repo link here)
+https://github.com/umargithub/QR-Code-Component-using-HTML-CSS/
 
 ## Author
 
